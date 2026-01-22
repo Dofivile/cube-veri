@@ -1,1 +1,16 @@
-{}
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "KVGAW53HJD.com.cubemoney.Cube",
+        "paths": [
+          "/auth/v1/verify*",
+          "/auth/v1/confirm*",
+          "/auth/v1/callback*",
+          "/auth/callback*"
+        ]
+      }
+    ]
+  }
+}
